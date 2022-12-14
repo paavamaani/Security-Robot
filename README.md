@@ -1,4 +1,4 @@
-# CMPE281 Warehouse Robot
+# CMPE281 Security Robot
 
 ### run npm install in /Backend and /Frontend seperately  
 ### run node index.js in  /Backend
