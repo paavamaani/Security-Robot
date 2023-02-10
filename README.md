@@ -57,7 +57,7 @@ MERN employs only open-source technology. This feature allows a developer to use
 # Screenshots of the App
 
 #### Database Schema
-<img src="./images/database_schema.png">
+<img src="./images/database.png">
 
 #### Sign Up
 <img src="./images/signup.png">
