@@ -9,16 +9,16 @@
 
 ## Frontend
 
-- ReactJs
+- React JS
 
 ## Backend
 
-- NodeJs
-- ExpressJS
+- Node JS
+- Express JS
 
 ## Database
 
-- MongoDb
+- MongoDB
 - MySQL
 
 ## Deployment
